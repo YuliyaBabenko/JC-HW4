@@ -1,7 +1,5 @@
 package ru.geekbrains.hw4;
 
-import ru.geekbrains.hw4.MyArrayDataException;
-
 public class ArrayConverter {
     /**
      * Метод преобразовывает строки двумерного массива в числа и возвращает их сумму.

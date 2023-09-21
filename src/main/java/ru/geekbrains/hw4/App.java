@@ -1,7 +1,5 @@
 package ru.geekbrains.hw4;
 
-import ru.geekbrains.hw4.MyArraySizeException;
-
 import static ru.geekbrains.hw4.ArrayTools.processArray;
 
 public class App {

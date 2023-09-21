@@ -1,8 +1,5 @@
 package ru.geekbrains.hw4;
 
-import ru.geekbrains.hw4.MyArrayDataException;
-import ru.geekbrains.hw4.MyArraySizeException;
-
 import static ru.geekbrains.hw4.ArrayConverter.convertAndSum;
 
 public class ArrayTools {
